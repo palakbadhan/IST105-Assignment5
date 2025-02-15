@@ -43,7 +43,7 @@
             <label>Enter a Secret Word:</label>
             <input type="text" name="text" required><br>
             
-            <input type="submit" value="Submit">
+            <input type="submit" value="Solve the puzzle">
         </form>
     </div>
 </body>
